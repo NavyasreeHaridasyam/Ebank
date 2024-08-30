@@ -1,0 +1,23 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  background-size: cover;
+}
+
+.digital-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.head {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 45px;
+}
+
+.digital-card {
+  height: 280px;
+  width: 500px;
+}
